@@ -1,5 +1,5 @@
-Host 5439-web-01
-    HostName 34.228.200.49
+Host 5845-web-01
+    HostName 172.17.0.30
     PreferredAuthentications publickey
     identityFile ~/.ssh/school
     PasswordAuthentication no
