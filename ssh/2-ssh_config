@@ -1,6 +1,2 @@
-Host 5845-web-01
-    HostName 54.235.48.253
-    PreferredAuthentications publickey
-    identityFile /alu-system_engineering-devops/ssh/school
-    PasswordAuthentication no
-    User ubuntu
+IdentityFile /alu-system_engineering-devops/ssh/school
+PasswordAuthentication no
